@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&family=Fasthand&family=Roboto:ital@1&display=swap');
+body {
+  font-family: 'Poppins', sans-serif;
+}
+.container p{
+  font-family: 'Poppins', sans-serif;
+}
+@media screen and (max-width: 600px){
+  .Services img{
+flex-wrap: wrap;
+  }
+  
+ 
+}
